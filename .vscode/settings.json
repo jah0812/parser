@@ -1,0 +1,27 @@
+{
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "solid",
+    "editor.fontLigatures": false,
+    "editor.smoothScrolling": false,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.renderControlCharacters": true,
+    "editor.lineHeight": 1.1,
+    "terminal.integrated.fontFamily": "'Fixedsys', Consolas, monospace",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.cursorStyle": "block",
+    "editor.tokenColorCustomizations": {
+        "[DOS Retro]": {
+            "textMateRules": [
+                {
+                    "scope": "source",
+                    "settings": {
+                        "fontStyle": ""
+                    }
+                }
+            ]
+        }
+    },
+    "editor.fontFamily": "monospace",
+    "editor.fontSize": 24
+}
